@@ -5,5 +5,11 @@
     <string name="activity_disable_message">已禁用</string>
     <string name="blog_short_label">博客</string>
     <string name="blog_long_label">打开博客</string>
-    <string name="add_shortcut">Add Shortcut</string>
+    <string name="add_open_blog_shortcut">添加打开博客快捷方式</string>
+    <string name="remove_open_blog_shortcut">移除打开博客快捷方式</string>
+    <string name="add_shortcut_success">快捷方式添加成功!</string>
+    <string name="shortcut_already_exist">快捷方式已存在!</string>
+    <string name="not_support_function">您的手机版本不支持该功能!</string>
+    <string name="shortcut_not_exist">快捷方式不存在!</string>
+    <string name="remove_shortcut_success">快捷方式移除成功!</string>
 </resources>
