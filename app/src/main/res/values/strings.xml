@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shortcuts</string>
+    <string name="activity_short_label">静态方式</string>
+    <string name="activity_long_label">打开静态界面</string>
+    <string name="activity_disable_message">已禁用</string>
+    <string name="blog_short_label">博客</string>
+    <string name="blog_long_label">打开博客</string>
+    <string name="add_shortcut">Add Shortcut</string>
+</resources>
